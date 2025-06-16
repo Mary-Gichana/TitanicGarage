@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Corolla Headlight",
+    "description": "Brand new genuine headlight for Toyota Corolla models (2014-2018). High durability and perfect fit.",
+    "image": "https://img.freepik.com/free-photo/headlight-lamp-car_1203-2247.jpg?ga=GA1.1.475879772.1726755369&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Nissan X-Trail Windshield",
+    "description": "Imported Nissan X-Trail windshield glass. Scratch-resistant and easy to install.",
+    "image": "/assets/products/xtrail-windshield.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mazda Demio Side Mirror",
+    "description": "Replacement side mirror for Mazda Demio. Available for both left and right sides.",
+    "image": "/assets/products/demio-mirror.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Honda Fit Brake Pads",
+    "description": "Set of 4 brake pads for Honda Fit. Ensures reliable braking performance.",
+    "image": "/assets/products/fit-brakepads.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Subaru Forester Tail Light",
+    "description": "Genuine Subaru Forester tail light. Bright and energy efficient.",
+    "image": "/assets/products/forester-taillight.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Toyota Axio Bumper",
+    "description": "Front bumper for Toyota Axio. High-quality material and paint-ready.",
+    "image": "/assets/products/axio-bumper.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mitsubishi Outlander Radiator",
+    "description": "Durable radiator for Mitsubishi Outlander. Keeps your engine cool even in tough conditions.",
+    "image": "/assets/products/outlander-radiator.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Suzuki Swift Alloy Wheel",
+    "description": "Stylish and strong alloy wheel for Suzuki Swift. 15-inch, silver finish.",
+    "image": "/assets/products/swift-alloy.jpg"
+  }
+]
