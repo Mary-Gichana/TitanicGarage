@@ -13,7 +13,7 @@ function Products() {
         <h2 className="text-2xl font-semibold mb-2 text-center">
           Our Products
         </h2>
-        <p className="text-xl  text-gray-900 mb-2 text-center">
+        <p className="font-bold text-600 text-gray mb-2 text-center">
           Some of our featured products
         </p>
         <p className="text-gray-600 mb-8">

@@ -15,19 +15,19 @@ function Navbar() {
         </span>
       </div>
       <div className="space-x-6">
-        <a href="#home" className="hover:text-green-400 transition">
+        <a href="#home" className="hover:text-grey-400 transition">
           Home
         </a>
-        <a href="#about" className="hover:text-green-400 transition">
+        <a href="#about" className="hover:text-grey-400 transition">
           About
         </a>
-        <a href="#products" className="hover:text-green-400 transition">
+        <a href="#products" className="hover:text-grey-400 transition">
           Products
         </a>
-        <a href="#services" className="hover:text-green-400 transition">
+        <a href="#services" className="hover:text-grey-400 transition">
           Services
         </a>
-        <a href="#contact" className="hover:text-green-400 transition">
+        <a href="#contact" className="hover:text-grey-400 transition">
           Contact
         </a>
       </div>

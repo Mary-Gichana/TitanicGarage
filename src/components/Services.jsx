@@ -42,11 +42,8 @@ const beforeAfterPairs = [
 function Services() {
   return (
     <div>
-      <h2 className="text-2xl font-semibold text-center mt-5">
-        Services
-      </h2>
+      <h2 className="text-2xl font-semibold text-center mt-5">Services</h2>
 
-      {/* Existing Services Content */}
       <section className="max-w-5xl mx-auto py-8 px-4 grid md:grid-cols-2 gap-8">
         <div>
           <h3 className="text-xl font-semibold mb-3">
@@ -103,7 +100,7 @@ function Services() {
                       <img
                         src={before}
                         alt={`Before repair - ${description}`}
-                        className="w-full h-48 object-cover rounded filter blur-md"
+                        className="w-full h-48 object-cover rounded filter blur-sm"
                       />
                     </div>
 
@@ -114,7 +111,7 @@ function Services() {
                       <img
                         src={after}
                         alt={`After repair - ${description}`}
-                        className="w-full h-48 object-cover rounded filter blur-md"
+                        className="w-full h-48 object-cover rounded filter blur-sm"
                       />
                     </div>
                   </div>
