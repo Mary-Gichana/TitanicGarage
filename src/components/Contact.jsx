@@ -5,11 +5,10 @@ function Contact() {
     <div>
       <h2 className="text-2xl font-semibold  text-center mt-12"> Contact Us</h2>
       <section className="relative bg-black text-white py-16 flex flex-col items-center mt-8">
-        
         <div className="relative z-10 text-center">
           <p className="text-lg mb-4">Ready to get started?</p>
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            Visit Mtwapa Electrical and Hardware Today!
+            Visit Titanic Auto Garage Solutions Today!
           </h2>
 
           <div className="mt-8 text-sm text-gray-300 space-y-1">
@@ -18,10 +17,10 @@ function Contact() {
               ELDORET-NAIROBI ROAD
             </p>
             <p>
-              <strong>Phone:</strong> 
+              <strong>Phone:0114802950</strong>
             </p>
             <p>
-              <strong>Email:</strong> 
+              <strong>Email:titaniceldoret@gmail.com</strong>
             </p>
           </div>
         </div>

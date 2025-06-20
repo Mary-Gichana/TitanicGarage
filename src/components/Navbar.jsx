@@ -1,5 +1,5 @@
 import React from "react";
-import Image1 from "/assets/Image1.png"; // Adjust the path as needed
+import Image1 from "/assets/Image1.png"; 
 
 function Navbar() {
   return (
@@ -15,19 +15,19 @@ function Navbar() {
         </span>
       </div>
       <div className="space-x-6">
-        <a href="#home" className="hover:text-grey-400 transition">
+        <a href="#home" className="hover:text-blue-400 transition">
           Home
         </a>
-        <a href="#about" className="hover:text-grey-400 transition">
+        <a href="#about" className="hover:text-blue-400 transition">
           About
         </a>
-        <a href="#products" className="hover:text-grey-400 transition">
+        <a href="#products" className="hover:text-blue-400 transition">
           Products
         </a>
-        <a href="#services" className="hover:text-grey-400 transition">
+        <a href="#services" className="hover:text-blue-400 transition">
           Services
         </a>
-        <a href="#contact" className="hover:text-grey-400 transition">
+        <a href="#contact" className="hover:text-blue-400 transition">
           Contact
         </a>
       </div>

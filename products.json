@@ -20,7 +20,7 @@
   {
     "id": 4,
     "name": "Honda Fit Brake Pads",
-    "description": "Set of 4 brake pads for Honda Fit. Ensures reliable braking performance.",
+    "description": "Set of brake pads for Honda Fit. Ensures reliable braking performance.",
     "image": "https://img.freepik.com/premium-photo/motorcycle-brake-pads-isolated-white-background-closeup-image_680303-5058.jpg?ga=GA1.1.475879772.1726755369&semt=ais_hybrid&w=740"
   },
   {
@@ -33,18 +33,18 @@
     "id": 6,
     "name": "Toyota Axio Bumper",
     "description": "Front bumper for Toyota Axio. High-quality material and paint-ready.",
-    "image": "/assets/products/axio-bumper.jpg"
+    "image": "https://www.kylinmotors.com/wp-content/uploads/2023/04/Front-Bumper-Toyota-Corolla-Axio-Fielder-Nze141-2008-Onwards-1.webp"
   },
   {
     "id": 7,
     "name": "Mitsubishi Outlander Radiator",
     "description": "Durable radiator for Mitsubishi Outlander. Keeps your engine cool even in tough conditions.",
-    "image": "/assets/products/outlander-radiator.jpg"
+    "image": "https://i5.walmartimages.com/seo/Radiator-Compatible-with-2014-2020-Mitsubishi-Outlander-Sport-2015-2016-2017-2018-2019_b652c666-f830-457a-a256-b181344b1910.e0090ff2977baa1aaa93607f3e9903e8.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
   },
   {
     "id": 8,
     "name": "Suzuki Swift Alloy Wheel",
     "description": "Stylish and strong alloy wheel for Suzuki Swift. 15-inch, silver finish.",
-    "image": "/assets/products/swift-alloy.jpg"
+    "image": "https://img.freepik.com/free-photo/close-up-metallic-car-wheel_23-2151113194.jpg?ga=GA1.1.475879772.1726755369&semt=ais_hybrid&w=740"
   }
 ]

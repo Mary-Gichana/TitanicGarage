@@ -40,7 +40,7 @@ function Home() {
         />
         <div className="relative z-10 text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            More products, Need Garage  ? Contact us or Visit Our Store
+            More products, Need Garage Services? Contact us or Visit Our Store
           </h2>
         </div>
       </section>
