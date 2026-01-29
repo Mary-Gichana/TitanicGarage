@@ -17,7 +17,7 @@ function Contact() {
               ELDORET-NAIROBI ROAD
             </p>
             <p>
-              <strong>Phone:0114802950</strong>
+              <strong>Phone:0722306060</strong>
             </p>
             <p>
               <strong>Email:titaniceldoret@gmail.com</strong>
