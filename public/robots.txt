@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.titanicgarage.co.ke/sitemap.xml
