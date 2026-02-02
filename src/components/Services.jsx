@@ -100,7 +100,7 @@ function Services() {
                       <img
                         src={before}
                         alt={`Before repair - ${description}`}
-                        className="w-full h-48 object-cover rounded filter blur-sm"
+                        className="w-full h-48 object-cover rounded filter blur-[1.5px]"
                       />
                     </div>
 
@@ -111,7 +111,7 @@ function Services() {
                       <img
                         src={after}
                         alt={`After repair - ${description}`}
-                        className="w-full h-48 object-cover rounded filter blur-sm"
+                        className="w-full h-48 object-cover rounded filter blur-[1.5px]"
                       />
                     </div>
                   </div>
