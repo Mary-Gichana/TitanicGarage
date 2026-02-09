@@ -1,8 +1,14 @@
 {
   "redirects": [
     {
-      "source": "/index.html",
-      "destination": "/",
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "titanic-garage.vercel.app"
+        }
+      ],
+      "destination": "https://www.titanicgarage.co.ke/$1",
       "permanent": true
     }
   ]
